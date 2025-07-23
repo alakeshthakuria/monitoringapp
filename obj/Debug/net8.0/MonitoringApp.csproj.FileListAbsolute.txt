@@ -31,3 +31,4 @@
 /home/athakuria/azure-monitoring-demo/MonitoringApp/obj/Debug/net8.0/MonitoringApp.pdb
 /home/athakuria/azure-monitoring-demo/MonitoringApp/obj/Debug/net8.0/MonitoringApp.genruntimeconfig.cache
 /home/athakuria/azure-monitoring-demo/MonitoringApp/obj/Debug/net8.0/ref/MonitoringApp.dll
+/home/athakuria/azure-monitoring-demo/MonitoringApp/obj/Debug/net8.0/MonitoringApp.sourcelink.json
