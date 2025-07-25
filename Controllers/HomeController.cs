@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using System;
 
 namespace MonitoringApp.Controllers
 {
@@ -7,6 +8,12 @@ namespace MonitoringApp.Controllers
         public IActionResult Index()
         {
             return Content("App is running and being monitored!");
+        }
+
+        public IActionResult GenerateError()
+        {
+            // This will throw a test exception
+            throw new Exception("This is a test exception to verify Application Insights logging.");
         }
     }
 }
